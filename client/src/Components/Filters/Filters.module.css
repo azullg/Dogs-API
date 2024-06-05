@@ -1,0 +1,31 @@
+.selects{
+    background-color: #e8f5f9;
+    border: 0;
+    font-family: "Montserrat", sans-serif;
+    font-weight: 700;
+    font-size: 15px;
+    height: 30px;
+    text-align: center;
+    border-bottom: 1px solid rgb(201, 200, 200);
+    color: black
+}
+
+.selectsTemperament{
+    background-color: #e8f5f9;
+    border: 0;
+    font-family: "Montserrat", sans-serif;
+    font-weight: 400;
+    font-size: 15px;
+    height: 30px;
+    text-align: center;
+    border-bottom: 1px solid rgb(201, 200, 200);
+    color: black
+}
+
+.container{
+    width: 500px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-top: 10px;
+}

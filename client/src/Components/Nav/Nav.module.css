@@ -1,0 +1,24 @@
+.container{
+    display: flex;
+    flex-direction: row;
+    width: 1300px;
+    height: 40px;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+.conleft{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 120px;
+}
+
+.links{
+    font-family: "Montserrat", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    text-decoration: none;
+    color: black
+}

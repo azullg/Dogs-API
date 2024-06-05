@@ -1,0 +1,128 @@
+.containerGeneral{
+    display: flex;  
+    flex-direction: row;
+    width: 100%;
+    font-family: "Montserrat", sans-serif;
+    justify-content: center;
+    
+
+}       
+
+.imgs{
+    width:420px;
+}
+
+.containerForm{
+    width: 500px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(255, 255, 255);
+}
+.form{
+    display: flex;
+    flex-direction: column;
+    height: 500px;
+    justify-content: space-around;
+}
+.title{
+    
+    font-family: "Montserrat", sans-serif;
+    font-weight: 600;
+    font-size: 30px;
+    padding-top: 15px;
+}
+.inputs{
+    border: 0;
+    border-bottom: 1px solid rgb(196, 193, 193);
+    font-family: "Montserrat", sans-serif;
+    font-weight: 700;
+    font-size: 13px;
+    text-align: center;
+    width: 130px;
+    
+}
+.inputsNumber{
+    border: 0;
+    border-bottom: 1px solid rgb(196, 193, 193);
+    width: 40px;
+    text-align: center;
+}
+.labels{
+    font-size: 16px;
+    font-weight: 300;
+    margin-right: 10px;
+}
+.labelsDes{
+    font-size: 14px;
+    font-weight: 500;
+    font-style: italic;
+}
+.selcts{
+    border: 0;
+    border-left: 1px solid rgba(0, 0, 0, 0.201);
+    padding: 10px;
+    font-family: "Montserrat", sans-serif;
+    font-weight: 300;
+    font-size: 13px;
+    color: rgba(0, 0, 0, 0.479);
+    border-radius: 5px;
+    width: 200px;
+    height: 100px;
+}
+.img{
+    width: 25px;
+}
+.img2{
+    width: 50px;
+}
+.img:hover{
+    transform: scale(1.2)
+}
+.img2:hover{
+    transform: scale(1.2)
+}
+.buttons{
+    background-color: rgb(255, 255, 255);
+    border: 0;
+}
+
+.temperament{
+    display: flex;
+    flex-direction: row;
+}
+.temperamentText{
+    font-size: 14px;
+    font-weight: 700;
+  
+}
+.img3{
+   height: 25px;
+   margin-top: 10px;
+   margin-bottom: 15px;
+}
+.img3:hover{
+    transform: scale(1.2)
+}
+
+.containerdivs{
+    display: flex;
+    align-items: center;
+}
+.errors{
+    font-family: "Montserrat", sans-serif;
+    font-weight: 700;
+    font-size: 13px;
+    font-style: italic;
+    color: #d85026;
+    margin-left: 10px;
+}
+.confirm{
+    font-family: "Montserrat", sans-serif;
+    font-weight: 700;
+    font-size: 13px;
+    font-style: italic;
+    color: #5826d8;
+   
+}

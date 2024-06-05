@@ -1,0 +1,53 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.paginando{
+    font-family: "Montserrat", sans-serif;
+    font-weight: 300;
+    font-size: 18px;
+    background-color: #e8f5f9;
+    border: 0;
+    width: 35px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.paginandoAct{
+    font-family: "Montserrat", sans-serif;
+    font-weight: 800;
+    font-size: 18px;
+    background-color: #e8f5f9;
+    border: 0;
+    width: 35px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+
+}
+.cards{
+    display: flex;
+    flex-wrap: wrap;
+width: 1300px;
+justify-content: space-around;
+align-items: center;
+margin-bottom: 50px;
+
+}
+
+.esperando{
+
+    margin-top: 50px;
+    margin-bottom: 50px;
+    width: 200px;
+    border-radius: 100px;
+}
+
+.appbutton{
+    margin-bottom: 20px;
+    display: flex;
+    justify-content: center;
+   border-top: 1px solid rgba(0, 0, 0, 0.237);
+    width: 90%;
+}
