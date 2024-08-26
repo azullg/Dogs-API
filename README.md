@@ -19,3 +19,4 @@ Este proyecto consistió en construir una **Single Page Application (SPA)** util
 
 Este proyecto no solo refleja mi habilidad en el desarrollo de aplicaciones web modernas, sino también mi capacidad para aplicar prácticas recomendadas y técnicas avanzadas en el desarrollo de software.
 
+
